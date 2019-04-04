@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/CustomCursor/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomCursor/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/CustomCursor/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/CustomCursor/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/CustomCursor/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomCursor/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to display a custom cursor in the chart control
 
