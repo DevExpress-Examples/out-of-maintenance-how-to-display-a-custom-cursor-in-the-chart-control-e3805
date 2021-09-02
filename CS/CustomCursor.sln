@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCursor", "CustomCursor\CustomCursor.csproj", "{9ACB1E67-5CD1-470C-AEEA-4BDB8211964E}"
 EndProject
 Global

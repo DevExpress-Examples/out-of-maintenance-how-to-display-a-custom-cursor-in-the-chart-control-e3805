@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomCursor", "CustomCursor\CustomCursor.vbproj", "{9ACB1E67-5CD1-470C-AEEA-4BDB8211964E}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCursor", "CustomCursor\CustomCursor.Net5.csproj", "{9ACB1E67-5CD1-470C-AEEA-4BDB8211964E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
